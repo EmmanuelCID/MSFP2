@@ -12,15 +12,16 @@ type: software
 authors:
   - given-names: Emmanuel
     family-names: Cid
-    email: l23212187@tectijuana.tecnm.mx
+    email: l23212187@tijuana.tecnm.mx
     name-particle: EMMANUEL
-    affiliation: TeNM / IT Tijuana
+    affiliation: TecNM / IT Tijuana
 repository-code: 'https://github.com/EmmanuelCID/MSFP2'
 keywords:
-  - Modelo Windkessel
   - Sistema cardiovascular
+  - Modelo Windkessel
+  - Circuito RLC
   - Controlador PID
-  - Modelo matemático
+  - Simulación numérica
 license: BSD-2-Clause
 version: '1.0'
 date-released: '2026-10-20'
